@@ -1,0 +1,17 @@
+h1 {
+    color: purple;
+}
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #c6d7e6;
+}
+#text {
+    border-radius: 2%;
+    padding: 20px 60px;
+    background-color: white;
+    text-align: center;
+}
+#title {
+    margin-bottom: 100px;
+}
